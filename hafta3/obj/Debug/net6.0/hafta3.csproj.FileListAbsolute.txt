@@ -1,0 +1,15 @@
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\bin\Debug\net6.0\hafta3.exe
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\bin\Debug\net6.0\hafta3.deps.json
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\bin\Debug\net6.0\hafta3.runtimeconfig.json
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\bin\Debug\net6.0\hafta3.dll
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\bin\Debug\net6.0\hafta3.pdb
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.csproj.AssemblyReference.cache
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.AssemblyInfoInputs.cache
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.AssemblyInfo.cs
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.csproj.CoreCompileInputs.cache
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.dll
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\refint\hafta3.dll
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.pdb
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\hafta3.genruntimeconfig.cache
+C:\Users\ufuky\OneDrive\Masaüstü\Dersler\bootCamp\hafta3\obj\Debug\net6.0\ref\hafta3.dll
